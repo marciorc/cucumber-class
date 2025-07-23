@@ -14,7 +14,7 @@ Este repositório contém um projeto de automação de testes utilizando **Cucum
 Clone o repositório e instale as dependências:
 
 ```sh
-git clone https://github.com/seu-usuario/cucumber-class.git
+git clone https://github.com/marciorc/cucumber-class.git
 cd cucumber-class
 npm install
 ```
